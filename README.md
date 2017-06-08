@@ -27,12 +27,12 @@ Mac OS X and Linux comes pre installed with python. Windows users can download p
 
 **\*\*These tutorials assume you are using Python 2.7.**
 
-#### 2. Install Jupyter
+#### 2. Install Jupyter & other Dependencies
 
 To install Jupyter, open a terminal and run
 
 ```
-pip install jupyter
+pip install jupyter numpy pandas matplotlib
 ```
 
 Once you're done with that, open a terminal and enter
